@@ -1,0 +1,24 @@
+.resize-vertical {
+  resize: vertical;
+}
+
+.js-logout {
+  color: white;
+}
+
+ul.navbar-nav {
+  list-style:none;
+}
+
+li.nav-item {
+  margin: 15px;
+}
+
+a.nav-link {
+  text-decoration: none;
+}
+
+a.nav-link:hover {
+  font-weight: bold;
+  cursor: pointer;
+}
